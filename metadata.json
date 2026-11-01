@@ -1,0 +1,6 @@
+{
+  "name": "Çatı Çiftliği (Rooftop Farm) - Unity C# & Web Simülatörü",
+  "description": "Sürdürülebilirlik & Sıfır Atık temalı 2D hyper-casual Unity oyunu için tam entegre C# scriptleri, kurulum rehberi ve oynanabilir canlı web simülatörü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
